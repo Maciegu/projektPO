@@ -1,0 +1,13 @@
+Zasady:
+1.Ustal kto jest X, a kto O.
+2.Grajacy X zaczyna umieszczajac plytke na dwoch dowolnych polach planszy. Nastepnie 2 gracz robi to samo.
+3.Raz polozona plytka nie moze byc przemieszczana ani usunieta.
+4.Wygrywa gracz ktory jako pierwszy ulozy w 1 linii co najmniej piec swoich symboli jeden obok drugiego.
+5.Symbole moga byc ulozone pionowo, poziomo lub na ukos.
+6.Jesli zabraknie plytek albo nie mozna wylozyc na plansze nowej plytki to partia konczy sie remisem.
+7.Plytki mozemy ukladac na rozne sposoby:
+-pionowo albo poziomo, tak by zakrywaly dokladnie dwa pola na planszy
+-plytka ukladana na gorze musi lezec na dwoch roznych plytach
+-plytka ulozona na gorze musi lezec na plasko
+-nowa plytka nie musi sasiadowac z wczesniej polozonymi plytkami
+-plytka pod zadnym pozorem nie moze wystawac poza plansze
